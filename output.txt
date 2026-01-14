@@ -1,3 +1,5 @@
+Tail Before Delete : 40
 10
 20
-40
+30
+Tail After Delete : 30
